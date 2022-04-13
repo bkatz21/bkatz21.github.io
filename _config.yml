@@ -1,10 +1,7 @@
 title: Ben Katz Data Science Portfolio 
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  Here is where you can find all of the data science projects I have or am currently working on. 
-  <br><br>
-  
-  <br><br>
+description: Here is where you can find all of the data science projects I have or am currently working on. > 
+
   <a href="www.linkedin.com/in/benkatz21">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
