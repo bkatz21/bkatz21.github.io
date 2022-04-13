@@ -1,8 +1,9 @@
 title: Ben Katz Data Science Portfolio 
 logo: "images/Headshot.png"
-description: Here is where you can find all of the data science projects I have or am currently working on. > 
+description: Here is where you can find all of the data science projects I have or am currently working on. <a 
+
 <br><br>
-  <a href="www.linkedin.com/in/benkatz21">View My LinkedIn Profile</a> 
+href="www.linkedin.com/in/benkatz21">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
