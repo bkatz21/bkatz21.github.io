@@ -2,30 +2,13 @@
 
 ---
 
-### Category Name 1 
+### BrainStation Capstone Project
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<a href="https://github.com/bkatz21/Modeling-Market-Values-of-European-Soccer-Players">How Much is Your Favorite Soccer Player Worth</a> 
+<img src="images/Capstone%20Thumbnail.png/>
+          
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
 
 
 
