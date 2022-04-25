@@ -5,7 +5,7 @@
 ### BrainStation Capstone Project
 
 <a href="https://github.com/bkatz21/Modeling-Market-Values-of-European-Soccer-Players">How Much is Your Favorite Soccer Player Worth</a> 
-<img src="images/Capstone%20Thumbnail.png/>
+<img src="images/Capstone%20Thumbnail.png"/>
           
 
 
